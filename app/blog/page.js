@@ -3,7 +3,7 @@ import BlogItem from "../components/BlogItem";
 import blogs from "../data/blogs";
 import BlogCard from "../components/BlogCard";
 
-export default function page() {
+export default function BlogPage() {
   return (
     <div className="mt-12">
       <div className="flex flex-col justify-center items-center">
