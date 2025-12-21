@@ -40,6 +40,9 @@ export default function RootLayout({ children }) {
             <li>
               <Link href="/intercept">Intercept</Link>
             </li>
+            <li>
+              <Link href="/gallery">Gallery</Link>
+            </li>
           </ul>
         </nav>
         {children}
