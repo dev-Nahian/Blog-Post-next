@@ -37,6 +37,9 @@ export default function RootLayout({ children }) {
             <li>
               <Link href="/parallel-dashboard">Dashboard</Link>
             </li>
+            <li>
+              <Link href="/intercept">Intercept</Link>
+            </li>
           </ul>
         </nav>
         {children}

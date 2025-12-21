@@ -1,0 +1,9 @@
+import React from "react";
+
+export default function Default() {
+  return (
+    <div className="text-xl p-4 border border-gray-200 rounded h-[360px] flex items-center justify-center mx-6 mt-5">
+      Default Dashboard
+    </div>
+  );
+}
